@@ -102,7 +102,7 @@ h2{
     transition: 1s;
     text-align: center;
     opacity: 0;
-    cursor: pointer;
+    flex-wrap: wrap;
 }
 
 .content:hover {
